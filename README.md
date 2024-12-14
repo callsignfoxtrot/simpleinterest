@@ -1,6 +1,6 @@
 # simpleinterest
 
-A brief description of what this project does and who it's for.
+This code calculates simple interest based on inputs.
 
 ## Installation
 1. Clone the repo.
